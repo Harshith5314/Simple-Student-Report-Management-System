@@ -1,3 +1,7 @@
+/*
+	Its a C++ code for Simple Student Report Management System
+*/
+
 #include<iostream>
 #include<fstream>
 #include<iomanip>
