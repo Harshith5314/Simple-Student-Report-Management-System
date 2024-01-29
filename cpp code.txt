@@ -1,5 +1,6 @@
 /*
 	Its a C++ code for Simple Student Report Management System
+	Owner: Kaduluri Harshith
 */
 
 #include<iostream>
